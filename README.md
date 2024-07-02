@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Food Management](https://github.com/AdityaBytes/Food-Wastage-Management)
 
-- 💬 Ask me about **Java(Dsa), Python and Python**
+- 💬 Ask me about **Java(Dsa) and Python**
 
 - 📫 How to reach me **guptaadi2722@gmail.com**
 
